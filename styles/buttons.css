@@ -54,7 +54,7 @@
     content: "";
     position: absolute;
     border-radius: inherit;
-    inset: 1.5px; /*para fazer o botao com a borda gradient*/
+    inset: 1px; /*para fazer o botao com a borda gradient*/
     background-color: var(--bg-color);
   }
 
